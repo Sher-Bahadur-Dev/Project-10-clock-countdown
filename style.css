@@ -64,3 +64,39 @@ h1, h2 {
 .timer button:active {
   transform: scale(0.95);
 }
+@media (max-width: 360px) {
+  .container {
+    padding: 20px;
+  }
+  .display {
+    font-size: 1.8rem;
+    padding: 10px;
+    margin-bottom: 18px;
+  }
+  .timer input {
+    width: 45px;
+    padding: 5px;
+    margin: 3px;
+  }
+  .timer button {
+    padding: 6px 12px;
+    margin: 4px 2px;
+    font-size: 0.85rem;
+  }
+}
+
+
+@media (max-width: 300px) {
+  .display {
+    font-size: 1.5rem;
+    padding: 8px;
+  }
+  .timer input {
+    width: 40px;
+    padding: 4px;
+  }
+  .timer button {
+    padding: 5px 10px;
+    font-size: 0.8rem;
+  }
+}
