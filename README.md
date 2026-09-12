@@ -1,12 +1,20 @@
-# Project 10 Clock Countdown
+# Digital Clock / Countdown Timer
 
 ## Overview
 
-**Project-10-clock-countdown** is a static html/css/js website built using **CSS and JavaScript and HTML5**.
+Digital Clock / Countdown Timer is implemented in this repository.
+
+A static html/css/js website built with CSS, JavaScript, HTML5, CSS3. Clean architecture and modular codebase.
 
 ## Tech Stack
 
 - **Languages**: CSS, JavaScript, HTML5, CSS3
+
+## Project Structure
+
+```text
+README.md            # Project documentation and getting started guide.
+```
 
 ## Getting Started
 
@@ -19,24 +27,18 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/Sher-Bahadur-417/Project-10-clock-countdown.git
+git clone https://github.com/Sher-Bahadur-Dev/digital-clock-countdown-timer-app.git
 
 # Navigate into the project folder
-cd Project-10-clock-countdown
+cd digital-clock-countdown-timer-app
 
 ```
 
 ### Running the Project
 
 ```bash
-# Run using your preferred server or runtime
+# Run using the runtime found in this repository
 ```
-
-## Screenshots
-
-> *Add screenshots or a GIF demonstration here.*
-
-<!-- ![App Screenshot](path/to/screenshot.png) -->
 
 ## License
 
